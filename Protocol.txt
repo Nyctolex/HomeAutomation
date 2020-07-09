@@ -1,0 +1,2593 @@
+HEY
+
+2019-08-20 23:42:39.642481:
+<h1>turn off tv</h1>
+
+2019-08-20 23:42:39.642481:
+<h1>turn off tv</h1>
+
+2019-08-20 23:43:21.192947:
+<h1> turn on the tv</h1>
+
+2019-08-20 23:43:21.192947:
+<h1> turn on the tv</h1>
+
+2019-08-20 23:43:49.528804:
+<h1> turn off tv</h1>
+
+2019-08-20 23:43:49.528804:
+<h1> turn off tv</h1>
+
+2019-08-20 23:52:19.822837:
+<h1> turn on tv</h1>
+
+2019-08-20 23:52:19.822837:
+<h1> turn on tv</h1>
+
+2019-08-20 23:54:32.727637:
+<h1> turn off tv</h1>
+
+2019-08-20 23:54:32.727637:
+<h1> turn off tv</h1>
+
+2019-08-21 01:01:53.718436:
+<h1> turn on tv</h1>
+
+2019-08-21 01:01:53.718436:
+<h1> turn on tv</h1>
+
+2019-08-21 01:24:47.484439:
+<h1> turn off tv</h1>
+
+2019-08-21 01:24:47.484439:
+<h1> turn off tv</h1>
+
+2019-08-21 01:24:49.500210:
+<h1> turn off tv</h1>
+
+2019-08-21 01:24:49.500210:
+<h1> turn off tv</h1>
+
+2019-08-22 00:13:38.235898:
+<h1> turn on tv</h1>
+
+2019-08-22 00:13:38.235898:
+<h1> turn on tv</h1>
+
+2019-08-22 00:13:59.487315:
+<h1> turn off tv</h1>
+
+2019-08-22 00:13:59.487315:
+<h1> turn off tv</h1>
+
+2019-08-21 16:08:42.016398:
+<h1> turn on tv</h1>
+
+2019-08-21 16:08:42.016398:
+<h1> turn on tv</h1>
+
+2019-08-21 16:09:13.505106:
+<h1> change tv source to yes</h1>
+
+2019-08-21 16:09:13.505106:
+<h1> change tv source to yes</h1>
+
+2019-08-21 16:53:57.519925:
+<h1> turn off tv</h1>
+
+2019-08-21 16:53:57.519925:
+<h1> turn off tv</h1>
+
+2019-08-21 16:55:46.812083:
+<h1> turn on christv</h1>
+
+2019-08-21 16:55:46.812083:
+<h1> turn on christv</h1>
+
+2019-08-21 16:56:19.402675:
+<h1> turn off chris tv</h1>
+
+2019-08-21 16:56:19.402675:
+<h1> turn off chris tv</h1>
+
+2019-08-21 17:08:04.336578:
+<h1> turn on tv</h1>
+
+2019-08-21 17:08:04.336578:
+<h1> turn on tv</h1>
+
+2019-08-21 17:08:48.092380:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 17:08:48.092380:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 17:23:43.451483:
+<h1> change tv source to yes</h1>
+
+2019-08-21 17:23:43.451483:
+<h1> change tv source to yes</h1>
+
+2019-08-21 17:28:15.122020:
+<h1> turn off tv</h1>
+
+2019-08-21 17:28:15.122020:
+<h1> turn off tv</h1>
+
+2019-08-21 17:28:19.434753:
+<h1> turn off tv</h1>
+
+2019-08-21 17:28:19.434753:
+<h1> turn off tv</h1>
+
+2019-08-21 17:36:21.721921:
+<h1>google said</h1>
+
+2019-08-21 17:36:21.721921:
+<h1>google said</h1>
+
+2019-08-21 17:36:25.519001:
+<h1> turn off tv</h1>
+
+2019-08-21 17:36:25.519001:
+<h1> turn off tv</h1>
+
+2019-08-21 17:37:21.627421:
+<h1>google said</h1>
+
+2019-08-21 17:37:21.627421:
+<h1>google said</h1>
+
+2019-08-21 17:37:36.096948:
+<h1> turn off tv</h1>
+
+2019-08-21 17:37:36.096948:
+<h1> turn off tv</h1>
+
+2019-08-21 17:39:29.505370:
+<h1> turn off tv</h1>
+
+2019-08-21 17:39:29.505370:
+<h1> turn off tv</h1>
+
+2019-08-21 17:40:29.188792:
+<h1> turn on tv</h1>
+
+2019-08-21 17:40:29.188792:
+<h1> turn on tv</h1>
+
+2019-08-21 17:40:46.564720:
+<h1> turn off</h1>
+
+2019-08-21 17:40:46.564720:
+<h1> turn off</h1>
+
+2019-08-21 18:01:58.547092:
+<h1> turn on tv</h1>
+
+2019-08-21 18:01:58.547092:
+<h1> turn on tv</h1>
+
+2019-08-21 18:02:24.489936:
+<h1> change tv source to chris cast</h1>
+
+2019-08-21 18:02:24.489936:
+<h1> change tv source to chris cast</h1><class 'Exception'>
+
+2019-08-21 18:02:48.913115:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 18:02:48.913115:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 18:03:05.288987:
+<h1> change tv source to yes nevermind nevermind hey google forget it</h1>
+
+2019-08-21 18:03:05.288987:
+<h1> change tv source to yes nevermind nevermind hey google forget it</h1>
+
+2019-08-21 18:03:21.422680:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 18:03:21.422680:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 18:11:24.209048:
+<h1>google said</h1>
+
+2019-08-21 18:11:24.209048:
+<h1>google said</h1>
+
+2019-08-21 18:11:35.412770:
+<h1> turn off tv</h1>
+
+2019-08-21 18:11:35.412770:
+<h1> turn off tv</h1>
+
+2019-08-21 20:01:45.373028:
+<h1> game of thrones</h1>
+
+2019-08-21 20:01:45.373028:
+<h1> game of thrones</h1>
+
+2019-08-21 22:27:18.219971:
+<h1> change tv state to off</h1>
+
+2019-08-21 22:27:18.219971:
+<h1> change tv state to off</h1>
+
+2019-08-21 22:27:27.470465:
+<h1> change tv power state to off</h1>
+
+2019-08-21 22:27:27.470465:
+<h1> change tv power state to off</h1>
+
+2019-08-21 22:50:39.537638:
+<h1> netflix mode</h1>
+
+2019-08-21 22:50:39.537638:
+<h1> netflix mode</h1>
+
+2019-08-21 22:53:22.532945:
+<h1> netflix mode</h1>
+
+2019-08-21 22:53:22.532945:
+<h1> netflix mode</h1>
+
+2019-08-21 22:54:04.582059:
+<h1> turn on tv</h1>
+
+2019-08-21 22:54:04.582059:
+<h1> turn on tv</h1>
+
+2019-08-21 22:55:20.362765:
+<h1> change tv source to chriscast</h1>
+
+2019-08-21 22:55:20.362765:
+<h1> change tv source to chriscast</h1>
+
+2019-08-22 00:10:23.857727:
+<h1> turn off tv</h1>
+
+2019-08-22 00:10:23.857727:
+<h1> turn off tv</h1>
+
+2019-08-22 15:06:28.362319:
+<h1> netflix mode</h1>
+
+2019-08-22 15:06:28.362319:
+<h1> netflix mode</h1>
+
+2019-08-22 15:06:46.003883:
+<h1> turn on tv</h1>
+
+2019-08-22 15:06:46.003883:
+<h1> turn on tv</h1>
+
+2019-08-22 15:46:34.091924:
+<h1> turn off tv</h1>
+
+2019-08-22 15:46:34.091924:
+<h1> turn off tv</h1>
+
+2019-08-22 18:51:30.119789:
+<h1> netflix mode</h1>
+
+2019-08-22 18:51:30.119789:
+<h1> netflix mode</h1>
+
+2019-08-22 19:38:22.580665:
+<h1>google said</h1>
+
+2019-08-22 19:38:22.580665:
+<h1>google said</h1>
+
+2019-08-22 19:38:28.393476:
+<h1> turn off tv</h1>
+
+2019-08-22 19:38:28.393476:
+<h1> turn off tv</h1>
+
+2019-08-22 23:15:24.863213:
+<h1> game of thrones mode</h1>
+
+2019-08-22 23:15:24.863213:
+<h1> game of thrones mode</h1>
+
+2019-08-23 00:09:59.760116:
+<h1> turn off tv</h1>
+
+2019-08-23 00:09:59.760116:
+<h1> turn off tv</h1>
+
+2019-08-23 00:39:38.267663:
+<h1> turn off tv</h1>
+
+2019-08-23 00:39:38.267663:
+<h1> turn off tv</h1>
+
+2019-08-23 12:19:13.575572:
+<h1> yes hey google home game of thrones mode</h1>
+
+2019-08-23 12:19:13.575572:
+<h1> yes hey google home game of thrones mode</h1>
+
+2019-08-23 14:18:20.007904:
+<h1> turn off tv</h1>
+
+2019-08-23 14:18:20.007904:
+<h1> turn off tv</h1>
+
+2019-08-23 15:35:05.071662:
+<h1> turn on tv</h1>
+
+2019-08-23 15:35:05.071662:
+<h1> turn on tv</h1>
+
+2019-08-23 18:57:57.701094:
+<h1> turn off tv</h1>
+
+2019-08-23 18:57:57.701094:
+<h1> turn off tv</h1>
+
+2019-08-23 19:22:40.359378:
+<h1>google said</h1>
+
+2019-08-23 19:22:40.359378:
+<h1>google said</h1>
+
+2019-08-23 19:22:46.461010:
+<h1> turn off tv</h1>
+
+2019-08-23 19:22:46.461010:
+<h1> turn off tv</h1>
+
+2019-08-23 22:54:46.291073:
+<h1> turn off tv</h1>
+
+2019-08-23 22:54:46.291073:
+<h1> turn off tv</h1>
+
+2019-08-25 11:01:32.865381:
+<h1> turn on tv</h1>
+
+2019-08-25 11:01:32.865381:
+<h1> turn on tv</h1>
+
+2019-08-25 13:59:25.669198:
+<h1> change tv source to netflix</h1>
+
+2019-08-25 13:59:25.669198:
+<h1> change tv source to netflix</h1><class 'Exception'>
+
+2019-08-25 18:24:13.278195:
+<h1>google said</h1>
+
+2019-08-25 18:24:13.278195:
+<h1>google said</h1>
+
+2019-08-25 18:24:19.917173:
+<h1> turn off tv</h1>
+
+2019-08-25 18:24:19.917173:
+<h1> turn off tv</h1>
+
+2019-08-25 18:27:59.536533:
+<h1> turn off tv</h1>
+
+2019-08-25 18:27:59.536533:
+<h1> turn off tv</h1>
+
+2019-08-25 18:28:23.189229:
+<h1> change tv source to on hey google home change tv state to on</h1>
+
+2019-08-25 18:28:23.189229:
+<h1> change tv source to on hey google home change tv state to on</h1><class 'Exception'>
+
+2019-08-25 18:28:32.107314:
+<h1> change tv state to on</h1>
+
+2019-08-25 18:28:32.107314:
+<h1> change tv state to on</h1>
+
+2019-08-25 18:28:38.731259:
+<h1> turn off tv</h1>
+
+2019-08-25 18:28:38.731259:
+<h1> turn off tv</h1>
+
+2019-08-25 18:29:22.581650:
+<h1> settv state to off</h1>
+
+2019-08-25 18:29:22.581650:
+<h1> settv state to off</h1>
+
+2019-08-25 18:29:32.131174:
+<h1> settv state 2 on</h1>
+
+2019-08-25 18:29:32.131174:
+<h1> settv state 2 on</h1>
+
+2019-08-25 18:29:41.749825:
+<h1>turn of tv</h1>
+
+2019-08-25 18:29:41.749825:
+<h1>turn of tv</h1>
+
+2019-08-25 18:30:12.527111:
+<h1>set tv power state to on</h1>
+
+2019-08-25 18:30:12.527111:
+<h1>set tv power state to on</h1>
+
+2019-08-25 18:30:32.821985:
+<h1> turn off tv</h1>
+
+2019-08-25 18:30:32.821985:
+<h1> turn off tv</h1>
+
+2019-08-25 19:52:28.820548:
+<h1>google said</h1>
+
+2019-08-25 19:52:28.820548:
+<h1>google said</h1>
+
+2019-08-25 19:52:34.738187:
+<h1> turn off tv</h1>
+
+2019-08-25 19:52:34.738187:
+<h1> turn off tv</h1>
+
+2019-08-25 22:02:33.185606:
+<h1>google said</h1>
+
+2019-08-25 22:02:33.185606:
+<h1>google said</h1>
+
+2019-08-25 22:02:36.540004:
+<h1>google said</h1>
+
+2019-08-25 22:02:36.540004:
+<h1>google said</h1>
+
+2019-08-25 22:02:40.641270:
+<h1>google said</h1>
+
+2019-08-25 22:02:40.641270:
+<h1>google said</h1>
+
+2019-08-25 22:02:48.159314:
+<h1>google said</h1>
+
+2019-08-25 22:02:48.159314:
+<h1>google said</h1>
+
+2019-08-25 22:02:51.790669:
+<h1>google said</h1>
+
+2019-08-25 22:02:51.790669:
+<h1>google said</h1>
+
+2019-08-25 22:02:59.946183:
+<h1>google said</h1>
+
+2019-08-25 22:02:59.946183:
+<h1>google said</h1>
+
+2019-08-25 22:03:06.209897:
+<h1>google said</h1>
+
+2019-08-25 22:03:06.209897:
+<h1>google said</h1>
+
+2019-08-25 22:04:11.341985:
+<h1>google said</h1>
+
+2019-08-25 22:04:11.341985:
+<h1>google said</h1>
+
+2019-08-25 22:04:15.642738:
+<h1>google said</h1>
+
+2019-08-25 22:04:15.642738:
+<h1>google said</h1>
+
+2019-08-25 22:04:21.227442:
+<h1>google said</h1>
+
+2019-08-25 22:04:21.227442:
+<h1>google said</h1>
+
+2019-08-25 22:04:27.512413:
+<h1>google said</h1>
+
+2019-08-25 22:04:27.512413:
+<h1>google said</h1>
+
+2019-08-25 22:04:33.498021:
+<h1>google said</h1>
+
+2019-08-25 22:04:33.498021:
+<h1>google said</h1>
+
+2019-08-25 22:04:39.100120:
+<h1> turn on tv</h1>
+
+2019-08-25 22:04:39.100120:
+<h1> turn on tv</h1>
+
+2019-08-25 22:05:00.119753:
+<h1> turn off tv</h1>
+
+2019-08-25 22:05:00.119753:
+<h1> turn off tv</h1>
+
+2019-08-25 22:05:08.420495:
+<h1> netflix mode</h1>
+
+2019-08-25 22:05:08.420495:
+<h1> netflix mode</h1>
+
+2019-08-25 22:05:26.008236:
+<h1> turn off tv</h1>
+
+2019-08-25 22:05:26.008236:
+<h1> turn off tv</h1>
+
+2019-08-25 22:06:07.668880:
+<h1>google said</h1>
+
+2019-08-25 22:06:07.668880:
+<h1>google said</h1>
+
+2019-08-25 22:06:09.669217:
+<h1>google said</h1>
+
+2019-08-25 22:06:09.669217:
+<h1>google said</h1>
+
+2019-08-25 22:06:12.985722:
+<h1>google said</h1>
+
+2019-08-25 22:06:12.985722:
+<h1>google said</h1>
+
+2019-08-25 22:06:32.827636:
+<h1>google said</h1>
+
+2019-08-25 22:06:32.827636:
+<h1>google said</h1>
+
+2019-08-25 22:06:36.860468:
+<h1>google said</h1>
+
+2019-08-25 22:06:36.860468:
+<h1>google said</h1>
+
+2019-08-25 22:06:42.246309:
+<h1>google said</h1>
+
+2019-08-25 22:06:42.246309:
+<h1>google said</h1>
+
+2019-08-25 22:06:45.977684:
+<h1>google said</h1>
+
+2019-08-25 22:06:45.977684:
+<h1>google said</h1>
+
+2019-08-25 22:06:50.662325:
+<h1>google said</h1>
+
+2019-08-25 22:06:50.662325:
+<h1>google said</h1>
+
+2019-08-25 22:06:54.347306:
+<h1>google said</h1>
+
+2019-08-25 22:06:54.347306:
+<h1>google said</h1>
+
+2019-08-25 22:06:59.711476:
+<h1> netflix mode</h1>
+
+2019-08-25 22:06:59.711476:
+<h1> netflix mode</h1>
+
+2019-08-25 22:07:17.314710:
+<h1>google said</h1>
+
+2019-08-25 22:07:17.314710:
+<h1>google said</h1>
+
+2019-08-25 22:07:18.036251:
+<h1>google said</h1>
+
+2019-08-25 22:07:18.036251:
+<h1>google said</h1>
+
+2019-08-25 22:07:18.736666:
+<h1>google said</h1>
+
+2019-08-25 22:07:18.736666:
+<h1>google said</h1>
+
+2019-08-25 22:07:19.452478:
+<h1>google said</h1>
+
+2019-08-25 22:07:19.452478:
+<h1>google said</h1>
+
+2019-08-25 22:07:39.904249:
+<h1>google said</h1>
+
+2019-08-25 22:07:39.904249:
+<h1>google said</h1>
+
+2019-08-25 22:07:43.319833:
+<h1> turn off tv</h1>
+
+2019-08-25 22:07:43.319833:
+<h1> turn off tv</h1>
+
+2019-08-25 22:07:47.105331:
+<h1>google said</h1>
+
+2019-08-25 22:07:47.105331:
+<h1>google said</h1>
+
+2019-08-25 22:07:50.143736:
+<h1>google said</h1>
+
+2019-08-25 22:07:50.143736:
+<h1>google said</h1>
+
+2019-08-25 22:23:43.854062:
+<h1> netflix mode</h1>
+
+2019-08-25 22:23:43.854062:
+<h1> netflix mode</h1>
+
+2019-08-25 22:24:01.458468:
+<h1>google said</h1>
+
+2019-08-25 22:24:01.458468:
+<h1>google said</h1>
+
+2019-08-25 22:24:02.542710:
+<h1>google said</h1>
+
+2019-08-25 22:24:02.542710:
+<h1>google said</h1>
+
+2019-08-25 22:24:03.242893:
+<h1>google said</h1>
+
+2019-08-25 22:24:03.242893:
+<h1>google said</h1>
+
+2019-08-25 22:24:04.605569:
+<h1>google said</h1>
+
+2019-08-25 22:24:04.605569:
+<h1>google said</h1>
+
+2019-08-25 22:24:13.145052:
+<h1>google said</h1>
+
+2019-08-25 22:24:13.145052:
+<h1>google said</h1>
+
+2019-08-25 22:24:29.648784:
+<h1> turn off tv</h1>
+
+2019-08-25 22:24:29.648784:
+<h1> turn off tv</h1>
+
+2019-08-25 22:24:32.796113:
+<h1>google said</h1>
+
+2019-08-25 22:24:32.796113:
+<h1>google said</h1>
+
+2019-08-25 22:28:59.524136:
+<h1>google said</h1>
+
+2019-08-25 22:28:59.524136:
+<h1>google said</h1>
+
+2019-08-25 22:29:13.127843:
+<h1> turn off tv</h1>
+
+2019-08-25 22:29:13.127843:
+<h1> turn off tv</h1>
+
+2019-08-25 22:29:14.874811:
+<h1> netflix mode</h1>
+
+2019-08-25 22:29:14.874811:
+<h1> netflix mode</h1>
+
+2019-08-25 22:29:32.529825:
+<h1>google said</h1>
+
+2019-08-25 22:29:32.529825:
+<h1>google said</h1>
+
+2019-08-25 22:29:33.276779:
+<h1>google said</h1>
+
+2019-08-25 22:29:33.276779:
+<h1>google said</h1>
+
+2019-08-25 22:29:34.029924:
+<h1>google said</h1>
+
+2019-08-25 22:29:34.029924:
+<h1>google said</h1>
+
+2019-08-25 22:29:41.763096:
+<h1>google said</h1>
+
+2019-08-25 22:29:41.763096:
+<h1>google said</h1>
+
+2019-08-25 22:29:52.534505:
+<h1>google said</h1>
+
+2019-08-25 22:29:52.534505:
+<h1>google said</h1>
+
+2019-08-25 22:29:53.981274:
+<h1>google said</h1>
+
+2019-08-25 22:29:53.981274:
+<h1>google said</h1>
+
+2019-08-25 22:30:08.337610:
+<h1> turn off tv</h1>
+
+2019-08-25 22:30:08.337610:
+<h1> turn off tv</h1>
+
+2019-08-25 22:30:11.453772:
+<h1>google said</h1>
+
+2019-08-25 22:30:11.453772:
+<h1>google said</h1>
+
+2019-08-25 22:30:57.952509:
+<h1> netflix mode</h1>
+
+2019-08-25 22:30:57.952509:
+<h1> netflix mode</h1>
+
+2019-08-25 22:31:15.557937:
+<h1>google said</h1>
+
+2019-08-25 22:31:15.557937:
+<h1>google said</h1>
+
+2019-08-25 22:31:16.320857:
+<h1>google said</h1>
+
+2019-08-25 22:31:16.320857:
+<h1>google said</h1>
+
+2019-08-25 22:31:17.058484:
+<h1>google said</h1>
+
+2019-08-25 22:31:17.058484:
+<h1>google said</h1>
+
+2019-08-25 22:31:23.959669:
+<h1>google said</h1>
+
+2019-08-25 22:31:23.959669:
+<h1>google said</h1>
+
+2019-08-25 22:31:31.992300:
+<h1>google said</h1>
+
+2019-08-25 22:31:31.992300:
+<h1>google said</h1>
+
+2019-08-25 22:31:40.194832:
+<h1>google said</h1>
+
+2019-08-25 22:31:40.194832:
+<h1>google said</h1>
+
+2019-08-25 22:31:54.880728:
+<h1> turn off tv</h1>
+
+2019-08-25 22:31:54.880728:
+<h1> turn off tv</h1>
+
+2019-08-25 22:31:59.665270:
+<h1>google said</h1>
+
+2019-08-25 22:31:59.665270:
+<h1>google said</h1>
+
+2019-08-25 22:35:28.488839:
+<h1> netflix mode</h1>
+
+2019-08-25 22:35:28.488839:
+<h1> netflix mode</h1>
+
+2019-08-25 22:35:46.093443:
+<h1>google said</h1>
+
+2019-08-25 22:35:46.093443:
+<h1>google said</h1>
+
+2019-08-25 22:35:46.793594:
+<h1>google said</h1>
+
+2019-08-25 22:35:46.793594:
+<h1>google said</h1>
+
+2019-08-25 22:35:47.494113:
+<h1>google said</h1>
+
+2019-08-25 22:35:47.494113:
+<h1>google said</h1>
+
+2019-08-25 22:35:48.231762:
+<h1>google said</h1>
+
+2019-08-25 22:35:48.231762:
+<h1>google said</h1>
+
+2019-08-25 22:35:57.849273:
+<h1>google said</h1>
+
+2019-08-25 22:35:57.849273:
+<h1>google said</h1>
+
+2019-08-25 22:36:04.635224:
+<h1>google said</h1>
+
+2019-08-25 22:36:04.635224:
+<h1>google said</h1>
+
+2019-08-25 22:36:17.337242:
+<h1>google said</h1>
+
+2019-08-25 22:36:17.337242:
+<h1>google said</h1>
+
+2019-08-25 22:37:05.910021:
+<h1> turn off tv</h1>
+
+2019-08-25 22:37:05.910021:
+<h1> turn off tv</h1>
+
+2019-08-25 22:38:00.426473:
+<h1> netflix mode</h1>
+
+2019-08-25 22:38:00.426473:
+<h1> netflix mode</h1>
+
+2019-08-25 22:38:18.016385:
+<h1>google said</h1>
+
+2019-08-25 22:38:18.016385:
+<h1>google said</h1>
+
+2019-08-25 22:38:18.716376:
+<h1>google said</h1>
+
+2019-08-25 22:38:18.716376:
+<h1>google said</h1>
+
+2019-08-25 22:38:19.447294:
+<h1>google said</h1>
+
+2019-08-25 22:38:19.447294:
+<h1>google said</h1>
+
+2019-08-25 22:38:23.169658:
+<h1>google said</h1>
+
+2019-08-25 22:38:23.169658:
+<h1>google said</h1>
+
+2019-08-25 22:38:32.603122:
+<h1>google said</h1>
+
+2019-08-25 22:38:32.603122:
+<h1>google said</h1>
+
+2019-08-25 22:38:36.935112:
+<h1>google said</h1>
+
+2019-08-25 22:38:36.935112:
+<h1>google said</h1>
+
+2019-08-25 22:38:50.437953:
+<h1>google said</h1>
+
+2019-08-25 22:38:50.437953:
+<h1>google said</h1>
+
+2019-08-25 22:39:02.140833:
+<h1> turn off tv</h1>
+
+2019-08-25 22:39:02.140833:
+<h1> turn off tv</h1>
+
+2019-08-25 22:41:08.242313:
+<h1> netflix mode</h1>
+
+2019-08-25 22:41:08.242313:
+<h1> netflix mode</h1>
+
+2019-08-25 22:41:25.846201:
+<h1>google said</h1>
+
+2019-08-25 22:41:25.846201:
+<h1>google said</h1>
+
+2019-08-25 22:41:26.846294:
+<h1>google said</h1>
+
+2019-08-25 22:41:26.846294:
+<h1>google said</h1>
+
+2019-08-25 22:41:27.561847:
+<h1>google said</h1>
+
+2019-08-25 22:41:27.561847:
+<h1>google said</h1>
+
+2019-08-25 22:41:33.615250:
+<h1>google said</h1>
+
+2019-08-25 22:41:33.615250:
+<h1>google said</h1>
+
+2019-08-25 22:41:40.879460:
+<h1>google said</h1>
+
+2019-08-25 22:41:40.879460:
+<h1>google said</h1>
+
+2019-08-25 22:41:46.518221:
+<h1>google said</h1>
+
+2019-08-25 22:41:46.518221:
+<h1>google said</h1>
+
+2019-08-25 22:41:58.584404:
+<h1>google said</h1>
+
+2019-08-25 22:41:58.584404:
+<h1>google said</h1>
+
+2019-08-25 22:42:04.585528:
+<h1> turn off tv</h1>
+
+2019-08-25 22:42:04.585528:
+<h1> turn off tv</h1>
+
+2019-08-25 22:42:07.023098:
+<h1>google said</h1>
+
+2019-08-25 22:42:07.023098:
+<h1>google said</h1>
+
+2019-08-25 22:47:46.617895:
+<h1> turn off tv</h1>
+
+2019-08-25 22:47:46.617895:
+<h1> turn off tv</h1>
+
+2019-08-26 10:28:38.040265:
+<h1>google said</h1>
+
+2019-08-26 10:28:38.040265:
+<h1>google said</h1>
+
+2019-08-26 10:28:45.242250:
+<h1> turn off tv</h1>
+
+2019-08-26 10:28:45.242250:
+<h1> turn off tv</h1>
+
+2019-08-26 20:47:33.302583:
+<h1> game of thrones mode</h1>
+
+2019-08-26 20:47:33.302583:
+<h1> game of thrones mode</h1>
+
+2019-08-27 00:13:32.305510:
+<h1> turn off tv</h1>
+
+2019-08-27 00:13:32.305510:
+<h1> turn off tv</h1>
+
+2019-08-27 00:19:31.341614:
+<h1> turn off tv</h1>
+
+2019-08-27 00:19:31.341614:
+<h1> turn off tv</h1>
+
+2019-08-27 11:10:38.972839:
+<h1>google said</h1>
+
+2019-08-27 11:10:38.972839:
+<h1>google said</h1>
+
+2019-08-27 11:10:57.178400:
+<h1> turn off tv</h1>
+
+2019-08-27 11:10:57.178400:
+<h1> turn off tv</h1>
+
+2019-08-27 14:03:30.551069:
+<h1> game of thrones mode</h1>
+
+2019-08-27 14:03:30.551069:
+<h1> game of thrones mode</h1>
+
+2019-08-27 15:41:13.810369:
+<h1> turn off tv</h1>
+
+2019-08-27 15:41:13.810369:
+<h1> turn off tv</h1>
+
+2019-08-27 16:30:15.018533:
+<h1> game of thrones mode</h1>
+
+2019-08-27 16:30:15.018533:
+<h1> game of thrones mode</h1>
+
+2019-08-27 17:33:35.378008:
+<h1> turn off tv</h1>
+
+2019-08-27 17:33:35.378008:
+<h1> turn off tv</h1>
+
+2019-08-27 18:49:58.120691:
+<h1> turn on tv</h1>
+
+2019-08-27 18:49:58.120691:
+<h1> turn on tv</h1>
+
+2019-08-27 18:50:37.762914:
+<h1> change tv source to to to to to to to chris cast</h1>
+
+2019-08-27 18:50:37.762914:
+<h1> change tv source to to to to to to to chris cast</h1><class 'Exception'>
+
+2019-08-27 19:25:11.409800:
+<h1> turn off tv</h1>
+
+2019-08-27 19:25:11.409800:
+<h1> turn off tv</h1>
+
+2019-08-27 19:31:35.287797:
+<h1>google said</h1>
+
+2019-08-27 19:31:35.287797:
+<h1>google said</h1>
+
+2019-08-27 19:31:42.489356:
+<h1> turn off tv</h1>
+
+2019-08-27 19:31:42.489356:
+<h1> turn off tv</h1>
+
+2019-08-28 12:23:15.326151:
+<h1> netflix mode</h1>
+
+2019-08-28 12:23:15.326151:
+<h1> netflix mode</h1>
+
+2019-08-28 12:43:49.478187:
+<h1> change tv source to yes</h1>
+
+2019-08-28 12:43:49.478187:
+<h1> change tv source to yes</h1>
+
+2019-08-28 16:19:48.991727:
+<h1>google said</h1>
+
+2019-08-28 16:19:48.991727:
+<h1>google said</h1>
+
+2019-08-28 16:19:55.632708:
+<h1> turn off tv</h1>
+
+2019-08-28 16:19:55.632708:
+<h1> turn off tv</h1>
+
+2019-08-29 01:16:03.389843:
+<h1> turn off tv</h1>
+
+2019-08-29 01:16:03.389843:
+<h1> turn off tv</h1>
+
+2019-08-29 09:45:02.875582:
+<h1> turn off the lights</h1>
+
+2019-08-29 09:45:02.875582:
+<h1> turn off the lights</h1>
+
+2019-08-29 09:45:15.110610:
+<h1> stop</h1>
+
+2019-08-29 09:45:15.110610:
+<h1> stop</h1>
+
+2019-08-30 16:35:16.237323:
+<h1>google said</h1>
+
+2019-08-30 16:35:16.237323:
+<h1>google said</h1>
+
+2019-08-30 16:35:16.987364:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:16.987364:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:19.721883:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:19.721883:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:21.487602:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:21.487602:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:23.362704:
+<h1>google said</h1>
+
+2019-08-30 16:35:23.362704:
+<h1>google said</h1>
+
+2019-08-30 16:35:24.206498:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:24.206498:
+<h1> turn off tv</h1>
+
+2019-08-30 16:35:25.956588:
+<h1> game of thrones mode</h1>
+
+2019-08-30 16:35:25.956588:
+<h1> game of thrones mode</h1>
+
+2019-08-30 16:35:43.533048:
+<h1> turn on tv</h1>
+
+2019-08-30 16:35:43.533048:
+<h1> turn on tv</h1>
+
+2019-08-30 18:19:53.858759:
+<h1> turn off tv</h1>
+
+2019-08-30 18:19:53.858759:
+<h1> turn off tv</h1>
+
+2019-08-30 18:20:06.875958:
+<h1>google said</h1>
+
+2019-08-30 18:20:06.875958:
+<h1>google said</h1>
+
+2019-08-30 18:20:13.391929:
+<h1> turn off tv</h1>
+
+2019-08-30 18:20:13.391929:
+<h1> turn off tv</h1>
+
+2019-08-30 19:46:21.065012:
+<h1>google said</h1>
+
+2019-08-30 19:46:21.065012:
+<h1>google said</h1>
+
+2019-08-30 19:46:28.366345:
+<h1> turn off tv</h1>
+
+2019-08-30 19:46:28.366345:
+<h1> turn off tv</h1>
+
+2019-08-30 21:38:41.163886:
+<h1> game of thrones mode</h1>
+
+2019-08-30 21:38:41.163886:
+<h1> game of thrones mode</h1>
+
+2019-08-31 00:07:22.275260:
+<h1> turn off tv</h1>
+
+2019-08-31 00:07:22.275260:
+<h1> turn off tv</h1>
+
+2019-08-31 00:07:39.879110:
+<h1> turn off tv</h1>
+
+2019-08-31 00:07:39.879110:
+<h1> turn off tv</h1>
+
+2019-08-31 10:46:55.771993:
+<h1> game of thrones mode</h1>
+
+2019-08-31 10:46:55.771993:
+<h1> game of thrones mode</h1>
+
+2019-08-31 10:47:13.392078:
+<h1> turn on tv</h1>
+
+2019-08-31 10:47:13.392078:
+<h1> turn on tv</h1>
+
+2019-08-31 13:48:45.004921:
+<h1> turn off tv</h1>
+
+2019-08-31 13:48:45.004921:
+<h1> turn off tv</h1>
+
+2019-08-31 15:27:43.828170:
+<h1>google said</h1>
+
+2019-08-31 15:27:43.828170:
+<h1>google said</h1>
+
+2019-08-31 15:27:55.030396:
+<h1> turn off tv</h1>
+
+2019-08-31 15:27:55.030396:
+<h1> turn off tv</h1>
+
+2019-08-31 20:41:02.749260:
+<h1> game of thrones mode</h1>
+
+2019-08-31 20:41:02.749260:
+<h1> game of thrones mode</h1>
+
+2019-08-31 23:57:39.534004:
+<h1> turn off tv</h1>
+
+2019-08-31 23:57:39.534004:
+<h1> turn off tv</h1>
+
+2019-08-31 23:58:20.220997:
+<h1> turn off tv</h1>
+
+2019-08-31 23:58:20.220997:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:03.391680:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:03.391680:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:25.135477:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:25.135477:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:35.693519:
+<h1> turn on tv</h1>
+
+2019-08-31 23:59:35.693519:
+<h1> turn on tv</h1>
+
+2019-08-31 23:59:47.973850:
+<h1> turn off tv</h1>
+
+2019-08-31 23:59:47.973850:
+<h1> turn off tv</h1>
+
+2019-09-01 17:44:41.017510:
+<h1> game of thrones mode</h1>
+
+2019-09-01 17:44:41.017510:
+<h1> game of thrones mode</h1>
+
+2019-09-01 17:49:04.271277:
+<h1> change tv source to yes</h1>
+
+2019-09-01 17:49:04.271277:
+<h1> change tv source to yes</h1>
+
+2019-09-01 19:03:34.804139:
+<h1> turn off tv</h1>
+
+2019-09-01 19:03:34.804139:
+<h1> turn off tv</h1>
+
+2019-09-01 19:29:03.567787:
+<h1> turn off tv</h1>
+
+2019-09-01 19:29:03.567787:
+<h1> turn off tv</h1>
+
+2019-09-01 19:31:28.765244:
+<h1> turn on tv</h1>
+
+2019-09-01 19:31:28.765244:
+<h1> turn on tv</h1>
+
+2019-09-01 20:21:19.454150:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:19.454150:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:25.177366:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:25.177366:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:34.271652:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:34.271652:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:45.847254:
+<h1> turn off tv</h1>
+
+2019-09-01 20:21:45.847254:
+<h1> turn off tv</h1>
+
+2019-09-01 20:22:30.716021:
+<h1> change tv state to off</h1>
+
+2019-09-01 20:22:30.716021:
+<h1> change tv state to off</h1>
+
+2019-09-01 20:22:34.673123:
+<h1> change tv state to on</h1>
+
+2019-09-01 20:22:34.673123:
+<h1> change tv state to on</h1>
+
+2019-09-01 20:22:50.000697:
+<h1> change tv power state to on</h1>
+
+2019-09-01 20:22:50.000697:
+<h1> change tv power state to on</h1>
+
+2019-09-01 20:23:00.816622:
+<h1> turn off tv</h1>
+
+2019-09-01 20:23:00.816622:
+<h1> turn off tv</h1>
+
+2019-09-01 20:23:30.975152:
+<h1> set tv power state to on</h1>
+
+2019-09-01 20:23:30.975152:
+<h1> set tv power state to on</h1>
+
+2019-09-01 20:23:37.010952:
+<h1> turn off tv</h1>
+
+2019-09-01 20:23:37.010952:
+<h1> turn off tv</h1>
+
+2019-09-01 21:16:46.549322:
+<h1> turn on tv</h1>
+
+2019-09-01 21:16:46.549322:
+<h1> turn on tv</h1>
+
+2019-09-01 21:17:26.658472:
+<h1> turn off tv</h1>
+
+2019-09-01 21:17:26.658472:
+<h1> turn off tv</h1>
+
+2019-09-01 22:04:32.645700:
+<h1> turn on tv</h1>
+
+2019-09-01 22:04:32.645700:
+<h1> turn on tv</h1>
+
+2019-09-01 22:05:58.458959:
+<h1> turn on tv</h1>
+
+2019-09-01 22:05:58.458959:
+<h1> turn on tv</h1>
+
+2019-09-01 22:06:14.679549:
+<h1> change tv source to netflix</h1>
+
+2019-09-01 22:06:14.679549:
+<h1> change tv source to netflix</h1><class 'Exception'>
+
+2019-09-01 22:06:23.724133:
+<h1> change tv source to netflix</h1>
+
+2019-09-01 22:06:23.724133:
+<h1> change tv source to netflix</h1><class 'Exception'>
+
+2019-09-01 22:06:36.461517:
+<h1> game of thrones mode</h1>
+
+2019-09-01 22:06:36.461517:
+<h1> game of thrones mode</h1>
+
+2019-09-01 22:06:49.361028:
+<h1> netflix mode</h1>
+
+2019-09-01 22:06:49.361028:
+<h1> netflix mode</h1>
+
+2019-09-01 22:07:09.458189:
+<h1> change tv source to yes</h1>
+
+2019-09-01 22:07:09.458189:
+<h1> change tv source to yes</h1>
+
+2019-09-01 22:07:18.371042:
+<h1> turn off tv</h1>
+
+2019-09-01 22:07:18.371042:
+<h1> turn off tv</h1>
+
+2019-09-01 22:07:30.130512:
+<h1> netflix mode</h1>
+
+2019-09-01 22:07:30.130512:
+<h1> netflix mode</h1>
+
+2019-09-01 22:08:05.275566:
+<h1> change tv source to yes</h1>
+
+2019-09-01 22:08:05.275566:
+<h1> change tv source to yes</h1>
+
+2019-09-01 22:08:10.225083:
+<h1> turn off tv</h1>
+
+2019-09-01 22:08:10.225083:
+<h1> turn off tv</h1>
+
+2019-09-01 22:08:22.600802:
+<h1>google said</h1>
+
+2019-09-01 22:08:22.600802:
+<h1>google said</h1>
+
+2019-09-01 22:08:33.225100:
+<h1> turn off tv</h1>
+
+2019-09-01 22:08:33.225100:
+<h1> turn off tv</h1>
+
+2019-09-01 22:08:46.235385:
+<h1> game of thrones mode</h1>
+
+2019-09-01 22:08:46.235385:
+<h1> game of thrones mode</h1>
+
+2019-09-01 22:09:16.693378:
+<h1> turn off tv</h1>
+
+2019-09-01 22:09:16.693378:
+<h1> turn off tv</h1>
+
+2019-09-01 22:09:29.858577:
+<h1> netflix mode</h1>
+
+2019-09-01 22:09:29.858577:
+<h1> netflix mode</h1>
+
+2019-09-01 22:10:04.971109:
+<h1> netflix mode</h1>
+
+2019-09-01 22:10:04.971109:
+<h1> netflix mode</h1>
+
+2019-09-01 22:16:39.057893:
+<h1> turn on tv</h1>
+
+2019-09-01 22:16:39.057893:
+<h1> turn on tv</h1>
+
+2019-09-01 22:16:40.794563:
+<h1>google said</h1>
+
+2019-09-01 22:16:40.794563:
+<h1>google said</h1>
+
+2019-09-01 22:16:47.485400:
+<h1> turn off tv</h1>
+
+2019-09-01 22:16:47.485400:
+<h1> turn off tv</h1>
+
+2019-09-01 22:17:04.758639:
+<h1> turn on tv</h1>
+
+2019-09-01 22:17:04.758639:
+<h1> turn on tv</h1>
+
+2019-09-01 22:17:07.206414:
+<h1>google said</h1>
+
+2019-09-01 22:17:07.206414:
+<h1>google said</h1>
+
+2019-09-02 00:06:45.268905:
+<h1> turn off tv</h1>
+
+2019-09-02 00:06:45.268905:
+<h1> turn off tv</h1>
+
+2019-09-02 00:07:52.991058:
+<h1> turn off tv</h1>
+
+2019-09-02 00:07:52.991058:
+<h1> turn off tv</h1>
+
+2019-09-02 08:44:09.573490:
+<h1>google said</h1>
+
+2019-09-02 08:44:09.573490:
+<h1>google said</h1>
+
+2019-09-02 08:44:16.197812:
+<h1> turn off tv</h1>
+
+2019-09-02 08:44:16.197812:
+<h1> turn off tv</h1>
+
+2019-09-02 13:53:53.493929:
+<h1> game of thrones mode</h1>
+
+2019-09-02 13:53:53.493929:
+<h1> game of thrones mode</h1>
+
+2019-09-02 14:04:00.689154:
+<h1> turn off tv</h1>
+
+2019-09-02 14:04:00.689154:
+<h1> turn off tv</h1>
+
+2019-09-02 15:36:24.422519:
+<h1> game of thrones mode</h1>
+
+2019-09-02 15:36:24.422519:
+<h1> game of thrones mode</h1>
+
+2019-09-02 16:44:35.174119:
+<h1> change tv source to netflix</h1>
+
+2019-09-02 16:44:35.174119:
+<h1> change tv source to netflix</h1><class 'Exception'>
+
+2019-09-02 18:41:44.724378:
+<h1>google said</h1>
+
+2019-09-02 18:41:44.724378:
+<h1>google said</h1>
+
+2019-09-02 18:42:05.878506:
+<h1>google said</h1>
+
+2019-09-02 18:42:05.878506:
+<h1>google said</h1>
+
+2019-09-02 18:42:21.717953:
+<h1> turn off tv</h1>
+
+2019-09-02 18:42:21.717953:
+<h1> turn off tv</h1>
+
+2019-09-02 21:13:41.921780:
+<h1>google said</h1>
+
+2019-09-02 21:13:41.921780:
+<h1>google said</h1>
+
+2019-09-02 21:13:47.939534:
+<h1> turn off tv</h1>
+
+2019-09-02 21:13:47.939534:
+<h1> turn off tv</h1>
+
+2019-09-02 21:40:35.351288:
+<h1> netflix mode</h1>
+
+2019-09-02 21:40:35.351288:
+<h1> netflix mode</h1>
+
+2019-09-02 21:43:04.841335:
+<h1> netflix mode</h1>
+
+2019-09-02 21:43:04.841335:
+<h1> netflix mode</h1>
+
+2019-09-02 23:16:49.233693:
+<h1> turn off tv</h1>
+
+2019-09-02 23:16:49.233693:
+<h1> turn off tv</h1>
+
+2019-09-03 12:40:04.227594:
+<h1>google said</h1>
+
+2019-09-03 12:40:04.227594:
+<h1>google said</h1>
+
+2019-09-03 12:40:11.270470:
+<h1> turn off tv</h1>
+
+2019-09-03 12:40:11.270470:
+<h1> turn off tv</h1>
+
+2019-09-03 18:18:44.907440:
+<h1> turn on tv</h1>
+
+2019-09-03 18:18:44.907440:
+<h1> turn on tv</h1>
+
+2019-09-03 19:42:27.016282:
+<h1> turn off tv</h1>
+
+2019-09-03 19:42:27.016282:
+<h1> turn off tv</h1>
+
+2019-09-04 11:08:23.909095:
+<h1> turn on tv</h1>
+
+2019-09-04 11:08:23.909095:
+<h1> turn on tv</h1>
+
+2019-09-04 11:11:58.413063:
+<h1> turn on tv</h1>
+
+2019-09-04 11:11:58.413063:
+<h1> turn on tv</h1>
+
+2019-09-04 11:15:39.946898:
+<h1> turn off tv</h1>
+
+2019-09-04 11:15:39.946898:
+<h1> turn off tv</h1>
+
+2019-09-04 11:39:59.674580:
+<h1> turn on tv</h1>
+
+2019-09-04 11:39:59.674580:
+<h1> turn on tv</h1>
+
+2019-09-04 11:43:03.252270:
+<h1>google said</h1>
+
+2019-09-04 11:43:03.252270:
+<h1>google said</h1>
+
+2019-09-04 11:43:09.840310:
+<h1> turn off tv</h1>
+
+2019-09-04 11:43:09.840310:
+<h1> turn off tv</h1>
+
+2019-09-04 11:44:10.483686:
+<h1> turn on tv</h1>
+
+2019-09-04 11:44:10.483686:
+<h1> turn on tv</h1>
+
+2019-09-04 11:44:28.540196:
+<h1> turn on tv</h1>
+
+2019-09-04 11:44:28.540196:
+<h1> turn on tv</h1>
+
+2019-09-04 12:05:42.709419:
+<h1>google said</h1>
+
+2019-09-04 12:05:42.709419:
+<h1>google said</h1>
+
+2019-09-04 12:05:49.317427:
+<h1> turn off tv</h1>
+
+2019-09-04 12:05:49.317427:
+<h1> turn off tv</h1>
+
+2019-09-04 15:16:07.776968:
+<h1> netflix mode</h1>
+
+2019-09-04 15:16:07.776968:
+<h1> netflix mode</h1>
+
+2019-09-04 15:16:25.381546:
+<h1>google said</h1>
+
+2019-09-04 15:16:25.381546:
+<h1>google said</h1>
+
+2019-09-04 15:16:26.092070:
+<h1>google said</h1>
+
+2019-09-04 15:16:26.092070:
+<h1>google said</h1>
+
+2019-09-04 15:16:26.788703:
+<h1>google said</h1>
+
+2019-09-04 15:16:26.788703:
+<h1>google said</h1>
+
+2019-09-04 15:16:29.485649:
+<h1>google said</h1>
+
+2019-09-04 15:16:29.485649:
+<h1>google said</h1>
+
+2019-09-04 15:16:36.213001:
+<h1>google said</h1>
+
+2019-09-04 15:16:36.213001:
+<h1>google said</h1>
+
+2019-09-04 15:16:40.942510:
+<h1>google said</h1>
+
+2019-09-04 15:16:40.942510:
+<h1>google said</h1>
+
+2019-09-04 15:16:53.302278:
+<h1>google said</h1>
+
+2019-09-04 15:16:53.302278:
+<h1>google said</h1>
+
+2019-09-04 15:17:00.046986:
+<h1> turn off tv</h1>
+
+2019-09-04 15:17:00.046986:
+<h1> turn off tv</h1>
+
+2019-09-04 15:17:03.069105:
+<h1>google said</h1>
+
+2019-09-04 15:17:03.069105:
+<h1>google said</h1>
+
+2019-09-04 15:17:14.828957:
+<h1>google said</h1>
+
+2019-09-04 15:17:14.828957:
+<h1>google said</h1>
+
+2019-09-04 15:17:25.264391:
+<h1> turn off tv</h1>
+
+2019-09-04 15:17:25.264391:
+<h1> turn off tv</h1>
+
+2019-09-05 10:17:17.474691:
+<h1> turn on tv</h1>
+
+2019-09-05 10:17:17.474691:
+<h1> turn on tv</h1>
+
+2019-09-05 12:21:26.930217:
+<h1> turn off tv</h1>
+
+2019-09-05 12:21:26.930217:
+<h1> turn off tv</h1>
+
+2019-09-05 12:57:12.163292:
+<h1> game of thrones mode</h1>
+
+2019-09-05 12:57:12.163292:
+<h1> game of thrones mode</h1>
+
+2019-09-05 15:59:33.960174:
+<h1> turn off tv</h1>
+
+2019-09-05 15:59:33.960174:
+<h1> turn off tv</h1>
+
+2019-09-05 16:05:35.167063:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:05:35.167063:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:06:24.977929:
+<h1> turn on tv</h1>
+
+2019-09-05 16:06:24.977929:
+<h1> turn on tv</h1>
+
+2019-09-05 16:06:46.211604:
+<h1> turn on tv</h1>
+
+2019-09-05 16:06:46.211604:
+<h1> turn on tv</h1>
+
+2019-09-05 16:06:48.633403:
+<h1>google said</h1>
+
+2019-09-05 16:06:48.633403:
+<h1>google said</h1>
+
+2019-09-05 16:07:25.788428:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:07:25.788428:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:08:21.520977:
+<h1> change tv source to yes</h1>
+
+2019-09-05 16:08:21.520977:
+<h1> change tv source to yes</h1>
+
+2019-09-05 16:08:40.676592:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:08:40.676592:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:09:06.207008:
+<h1> settv source state to 2222 yes</h1>
+
+2019-09-05 16:09:06.207008:
+<h1> settv source state to 2222 yes</h1>
+
+2019-09-05 16:09:13.644262:
+<h1> settv state source to yes</h1>
+
+2019-09-05 16:09:13.644262:
+<h1> settv state source to yes</h1>
+
+2019-09-05 16:09:22.565847:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:09:22.565847:
+<h1> change tv source to chriscast</h1>
+
+2019-09-05 16:53:55.228067:
+<h1> turn off tv</h1>
+
+2019-09-05 16:53:55.228067:
+<h1> turn off tv</h1>
+
+2019-09-05 17:47:06.295133:
+<h1> turn off tv</h1>
+
+2019-09-05 17:47:06.295133:
+<h1> turn off tv</h1>
+
+2019-09-05 17:50:46.084789:
+<h1> turn on tv</h1>
+
+2019-09-05 17:50:46.084789:
+<h1> turn on tv</h1>
+
+2019-09-05 17:52:42.659086:
+<h1> turn off tv</h1>
+
+2019-09-05 17:52:42.659086:
+<h1> turn off tv</h1>
+
+2019-09-05 20:09:27.207842:
+<html>
+    <head>
+        <title>pythonanywhere: something went wrong :-(</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-pdaphxih7eyuwy6k7ie41uxvxgcxy0sajbzaelygjurzwodck3lx6ie2la0rfreo" crossorigin="anonymous">
+        <style>
+            body {
+                font-family: helvetica, arial, sans-serif;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+            }
+            .for-site-owner {
+                font-size: smaller;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <div class="header">
+                <img src="https://s3.amazonaws.com/pythonanywhere-error-images/logo-234x35.png" />
+
+                <h1>something went wrong :-(</h1>
+
+                <p>
+                    this website is hosted by pythonanywhere, an online hosting
+                    environment.  something went wrong while trying to load it;
+                    please try again later.
+                </p>
+
+                <div class="for-site-owner">
+                    <h2>debugging tips</h2>
+                    <p>
+                        if this is your pythonanywhere-hosted site, and you just reloaded
+                        it, then the problem might simply be that it hasn&#39;t loaded up yet.
+                        try refreshing this page and see if this message disappears.
+                    </p>
+
+                    <p>
+                        if you keep getting this message, you should check your site&#39;s
+                        server and error logs for any messages &mdash; you can view them
+                        from the web tab inside pythonanywhere.
+                    </p>
+
+                    <p>
+                        if there&#39;s nothing in the logs, and you&#39;re sure your site is ok,
+                        then it might be a problem on our side.  drop us a line at
+                        support@pythonanywhere.com, in the forums, or using the &quot;send
+                        feedback&quot; link on the site, quoting the error code below.
+                    </p>
+                </div>
+
+                <p>
+                    error code: 502-backend
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+2019-09-05 20:09:27.207842:
+<html>
+    <head>
+        <title>pythonanywhere: something went wrong :-(</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-pdaphxih7eyuwy6k7ie41uxvxgcxy0sajbzaelygjurzwodck3lx6ie2la0rfreo" crossorigin="anonymous">
+        <style>
+            body {
+                font-family: helvetica, arial, sans-serif;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+            }
+            .for-site-owner {
+                font-size: smaller;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <div class="header">
+                <img src="https://s3.amazonaws.com/pythonanywhere-error-images/logo-234x35.png" />
+
+                <h1>something went wrong :-(</h1>
+
+                <p>
+                    this website is hosted by pythonanywhere, an online hosting
+                    environment.  something went wrong while trying to load it;
+                    please try again later.
+                </p>
+
+                <div class="for-site-owner">
+                    <h2>debugging tips</h2>
+                    <p>
+                        if this is your pythonanywhere-hosted site, and you just reloaded
+                        it, then the problem might simply be that it hasn&#39;t loaded up yet.
+                        try refreshing this page and see if this message disappears.
+                    </p>
+
+                    <p>
+                        if you keep getting this message, you should check your site&#39;s
+                        server and error logs for any messages &mdash; you can view them
+                        from the web tab inside pythonanywhere.
+                    </p>
+
+                    <p>
+                        if there&#39;s nothing in the logs, and you&#39;re sure your site is ok,
+                        then it might be a problem on our side.  drop us a line at
+                        support@pythonanywhere.com, in the forums, or using the &quot;send
+                        feedback&quot; link on the site, quoting the error code below.
+                    </p>
+                </div>
+
+                <p>
+                    error code: 502-backend
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+2019-09-05 20:09:28.239058:
+<html>
+    <head>
+        <title>pythonanywhere: something went wrong :-(</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-pdaphxih7eyuwy6k7ie41uxvxgcxy0sajbzaelygjurzwodck3lx6ie2la0rfreo" crossorigin="anonymous">
+        <style>
+            body {
+                font-family: helvetica, arial, sans-serif;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+            }
+            .for-site-owner {
+                font-size: smaller;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <div class="header">
+                <img src="https://s3.amazonaws.com/pythonanywhere-error-images/logo-234x35.png" />
+
+                <h1>something went wrong :-(</h1>
+
+                <p>
+                    this website is hosted by pythonanywhere, an online hosting
+                    environment.  something went wrong while trying to load it;
+                    please try again later.
+                </p>
+
+                <div class="for-site-owner">
+                    <h2>debugging tips</h2>
+                    <p>
+                        if this is your pythonanywhere-hosted site, and you just reloaded
+                        it, then the problem might simply be that it hasn&#39;t loaded up yet.
+                        try refreshing this page and see if this message disappears.
+                    </p>
+
+                    <p>
+                        if you keep getting this message, you should check your site&#39;s
+                        server and error logs for any messages &mdash; you can view them
+                        from the web tab inside pythonanywhere.
+                    </p>
+
+                    <p>
+                        if there&#39;s nothing in the logs, and you&#39;re sure your site is ok,
+                        then it might be a problem on our side.  drop us a line at
+                        support@pythonanywhere.com, in the forums, or using the &quot;send
+                        feedback&quot; link on the site, quoting the error code below.
+                    </p>
+                </div>
+
+                <p>
+                    error code: 502-backend
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+2019-09-05 20:09:28.239058:
+<html>
+    <head>
+        <title>pythonanywhere: something went wrong :-(</title>
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-pdaphxih7eyuwy6k7ie41uxvxgcxy0sajbzaelygjurzwodck3lx6ie2la0rfreo" crossorigin="anonymous">
+        <style>
+            body {
+                font-family: helvetica, arial, sans-serif;
+                width: 500px;
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 20px;
+            }
+            .for-site-owner {
+                font-size: smaller;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <div class="header">
+                <img src="https://s3.amazonaws.com/pythonanywhere-error-images/logo-234x35.png" />
+
+                <h1>something went wrong :-(</h1>
+
+                <p>
+                    this website is hosted by pythonanywhere, an online hosting
+                    environment.  something went wrong while trying to load it;
+                    please try again later.
+                </p>
+
+                <div class="for-site-owner">
+                    <h2>debugging tips</h2>
+                    <p>
+                        if this is your pythonanywhere-hosted site, and you just reloaded
+                        it, then the problem might simply be that it hasn&#39;t loaded up yet.
+                        try refreshing this page and see if this message disappears.
+                    </p>
+
+                    <p>
+                        if you keep getting this message, you should check your site&#39;s
+                        server and error logs for any messages &mdash; you can view them
+                        from the web tab inside pythonanywhere.
+                    </p>
+
+                    <p>
+                        if there&#39;s nothing in the logs, and you&#39;re sure your site is ok,
+                        then it might be a problem on our side.  drop us a line at
+                        support@pythonanywhere.com, in the forums, or using the &quot;send
+                        feedback&quot; link on the site, quoting the error code below.
+                    </p>
+                </div>
+
+                <p>
+                    error code: 502-backend
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
+
+
+2019-09-07 16:39:59.644030:
+<h1> game of thrones mode</h1>
+
+2019-09-07 16:39:59.644030:
+<h1> game of thrones mode</h1>
+
+2019-09-07 16:40:20.221480:
+<h1> game of thrones xbox mode</h1>
+
+2019-09-07 16:40:20.221480:
+<h1> game of thrones xbox mode</h1>
+
+2019-09-07 18:21:00.730749:
+<h1>google said</h1>
+
+2019-09-07 18:21:00.730749:
+<h1>google said</h1>
+
+2019-09-07 18:21:08.640231:
+<h1> turn off tv</h1>
+
+2019-09-07 18:21:08.640231:
+<h1> turn off tv</h1>
+
+2019-09-07 18:45:15.673910:
+<h1>google said</h1>
+
+2019-09-07 18:45:15.673910:
+<h1>google said</h1>
+
+2019-09-07 18:45:22.912280:
+<h1> turn off tv</h1>
+
+2019-09-07 18:45:22.912280:
+<h1> turn off tv</h1>
+
+2019-09-07 22:31:57.885513:
+<h1> change tv source to chriscast</h1>
+
+2019-09-07 22:31:57.885513:
+<h1> change tv source to chriscast</h1>
+
+2019-09-07 22:32:29.447937:
+<h1> change tv source to chriscast</h1>
+
+2019-09-07 22:32:29.447937:
+<h1> change tv source to chriscast</h1>
+
+2019-09-07 22:48:50.334208:
+<h1> turn off tv</h1>
+
+2019-09-07 22:48:50.334208:
+<h1> turn off tv</h1>
+
+2019-09-08 13:26:21.968981:
+<h1> game of thrones mode</h1>
+
+2019-09-08 13:26:21.968981:
+<h1> game of thrones mode</h1>
+
+2019-09-08 13:29:32.980205:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:29:32.980205:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:31:38.076374:
+<h1> change tv source to 2 to chriscast</h1>
+
+2019-09-08 13:31:38.076374:
+<h1> change tv source to 2 to chriscast</h1>
+
+2019-09-08 13:32:04.148333:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:32:04.148333:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:32:18.354527:
+<h1> set tv source state to yes</h1>
+
+2019-09-08 13:32:18.354527:
+<h1> set tv source state to yes</h1>
+
+2019-09-08 13:32:26.246418:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:32:26.246418:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 13:32:42.859965:
+<h1> change tv source to yes</h1>
+
+2019-09-08 13:32:42.859965:
+<h1> change tv source to yes</h1>
+
+2019-09-08 16:26:56.600309:
+<h1> turn off tv</h1>
+
+2019-09-08 16:26:56.600309:
+<h1> turn off tv</h1>
+
+2019-09-08 16:27:10.744989:
+<h1>google said</h1>
+
+2019-09-08 16:27:10.744989:
+<h1>google said</h1>
+
+2019-09-08 16:27:21.793063:
+<h1> turn off tv</h1>
+
+2019-09-08 16:27:21.793063:
+<h1> turn off tv</h1>
+
+2019-09-08 23:07:45.721004:
+<h1> turn on tv</h1>
+
+2019-09-08 23:07:45.721004:
+<h1> turn on tv</h1>
+
+2019-09-08 23:07:57.834031:
+<h1> turn off tv</h1>
+
+2019-09-08 23:07:57.834031:
+<h1> turn off tv</h1>
+
+2019-09-08 23:08:12.488069:
+<h1> turn off tv</h1>
+
+2019-09-08 23:08:12.488069:
+<h1> turn off tv</h1>
+
+2019-09-08 23:08:48.676190:
+<h1> set tv powers to state power state two on</h1>
+
+2019-09-08 23:08:48.676190:
+<h1> set tv powers to state power state two on</h1>
+
+2019-09-08 23:08:55.533768:
+<h1> turn off tv</h1>
+
+2019-09-08 23:08:55.533768:
+<h1> turn off tv</h1>
+
+2019-09-08 23:23:08.783143:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:23:08.783143:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:23:10.892635:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:23:10.892635:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:23:11.640516:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:23:11.640516:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:23:12.376856:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:23:12.376856:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:23:13.104145:
+<h1>set tv source state christcast</h1>
+
+2019-09-08 23:23:13.104145:
+<h1>set tv source state christcast</h1><class 'Exception'>
+
+2019-09-08 23:23:16.697716:
+<h1>set tv source state yes</h1>
+
+2019-09-08 23:23:16.697716:
+<h1>set tv source state yes</h1>
+
+2019-09-08 23:26:10.955196:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:26:10.955196:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:26:21.245004:
+<h1> turn on tv</h1>
+
+2019-09-08 23:26:21.245004:
+<h1> turn on tv</h1>
+
+2019-09-08 23:26:51.909527:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:26:51.909527:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:27:01.090121:
+<h1> turn off tv</h1>
+
+2019-09-08 23:27:01.090121:
+<h1> turn off tv</h1>
+
+2019-09-08 23:27:23.236125:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:27:23.236125:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:27:42.820299:
+<h1> turn on tv</h1>
+
+2019-09-08 23:27:42.820299:
+<h1> turn on tv</h1>
+
+2019-09-08 23:27:50.015174:
+<h1> turn on tv</h1>
+
+2019-09-08 23:27:50.015174:
+<h1> turn on tv</h1>
+
+2019-09-08 23:28:07.822385:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:28:07.822385:
+<h1>set tv power state off</h1>
+
+2019-09-08 23:28:14.018584:
+<h1> turn on tv</h1>
+
+2019-09-08 23:28:14.018584:
+<h1> turn on tv</h1>
+
+2019-09-08 23:28:37.692121:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:28:37.692121:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:28:46.309169:
+<h1>set tv source state yes</h1>
+
+2019-09-08 23:28:46.309169:
+<h1>set tv source state yes</h1>
+
+2019-09-08 23:28:53.804391:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:28:53.804391:
+<h1> change tv source to chriscast</h1>
+
+2019-09-08 23:29:53.421481:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:29:53.421481:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:29:54.146607:
+<h1>set tv source state christcast</h1>
+
+2019-09-08 23:29:54.146607:
+<h1>set tv source state christcast</h1><class 'Exception'>
+
+2019-09-08 23:30:19.899834:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:30:19.899834:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:30:20.625330:
+<h1>set tv source state christcast</h1>
+
+2019-09-08 23:30:20.625330:
+<h1>set tv source state christcast</h1><class 'Exception'>
+
+2019-09-08 23:30:25.405154:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:30:25.405154:
+<h1>set tv power state on</h1>
+
+2019-09-08 23:30:26.310631:
+<h1>set tv source state christcast</h1>
+
+2019-09-08 23:30:26.310631:
+<h1>set tv source state christcast</h1><class 'Exception'>
+
+2019-09-08 23:32:50.014625:
+<h1> turn off tv</h1>
+
+2019-09-08 23:32:50.014625:
+<h1> turn off tv</h1>
+
+2019-09-09 08:58:03.599589:
+<h1>google said</h1>
+
+2019-09-09 08:58:03.599589:
+<h1>google said</h1>
+
+2019-09-09 08:58:09.685514:
+<h1> turn off tv</h1>
+
+2019-09-09 08:58:09.685514:
+<h1> turn off tv</h1>
+
+2019-09-09 19:16:32.589842:
+<h1> game of thrones mode</h1>
+
+2019-09-09 19:16:32.589842:
+<h1> game of thrones mode</h1>
+
+2019-09-09 20:22:52.331354:
+<h1>google said</h1>
+
+2019-09-09 20:22:52.331354:
+<h1>google said</h1>
+
+2019-09-09 20:22:58.555277:
+<h1> turn off tv</h1>
+
+2019-09-09 20:22:58.555277:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:19.082865:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:19.082865:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:31.200595:
+<h1>set tv power state on</h1>
+
+2019-09-09 20:24:31.200595:
+<h1>set tv power state on</h1>
+
+2019-09-09 20:24:38.003599:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:38.003599:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:48.570522:
+<h1> turn off tv</h1>
+
+2019-09-09 20:24:48.570522:
+<h1> turn off tv</h1>
+
+2019-09-09 20:25:10.772632:
+<h1> turn off tv</h1>
+
+2019-09-09 20:25:10.772632:
+<h1> turn off tv</h1>
+
+2019-09-09 23:24:07.806813:
+<h1>set tv power state off</h1>
+
+2019-09-09 23:24:07.806813:
+<h1>set tv power state off</h1>
+
+2019-09-09 23:24:13.410179:
+<h1>set tv source state yes</h1>
+
+2019-09-09 23:24:13.410179:
+<h1>set tv source state yes</h1>
+
+2019-09-10 00:20:43.129384:
+<h1> turn off tv</h1>
+
+2019-09-10 00:20:43.129384:
+<h1> turn off tv</h1>
+
+2019-09-10 14:42:08.132415:
+<h1>google said</h1>
+
+2019-09-10 14:42:08.132415:
+<h1>google said</h1>
+
+2019-09-10 14:42:12.266516:
+<h1> turn off tv</h1>
+
+2019-09-10 14:42:12.266516:
+<h1> turn off tv</h1>
+
+2019-09-10 15:38:53.686329:
+<h1>google said</h1>
+
+2019-09-10 15:38:53.686329:
+<h1>google said</h1>
+
+2019-09-10 15:39:04.218637:
+<h1> turn off tv</h1>
+
+2019-09-10 15:39:04.218637:
+<h1> turn off tv</h1>
+
+2019-09-11 14:47:07.914742:
+<h1> game of thrones mode</h1>
+
+2019-09-11 14:47:07.914742:
+<h1> game of thrones mode</h1>
+
+2019-09-11 15:20:54.113920:
+<h1> turn on tv</h1>
+
+2019-09-11 15:20:54.113920:
+<h1> turn on tv</h1>
+
+2019-09-11 15:20:58.558765:
+<h1>google said</h1>
+
+2019-09-11 15:20:58.558765:
+<h1>google said</h1>
+
+2019-09-11 19:52:39.214976:
+<h1>google said</h1>
+
+2019-09-11 19:52:39.214976:
+<h1>google said</h1>
+
+2019-09-11 19:52:46.081294:
+<h1> turn off tv</h1>
+
+2019-09-11 19:52:46.081294:
+<h1> turn off tv</h1>
+
+2020-03-02 18:02:51.587271:
+<h1> turn on tv</h1>
+
+2020-03-02 18:02:51.587271:
+<h1> turn on tv</h1>
+
+2020-03-02 19:40:06.869552:
+<h1>hey</h1>
+
+2020-03-02 19:40:06.869552:
+<h1>hey</h1>
+
+2020-03-02 19:40:34.759267:
+<h1>turn on tv</h1>
+
+2020-03-02 19:40:34.759267:
+<h1>turn on tv</h1>
+
+2020-03-02 19:40:47.946394:
+<h1>set tv state to off</h1>
+
+2020-03-02 19:40:47.946394:
+<h1>set tv state to off</h1>
+
+2020-03-02 19:40:57.508555:
+<h1>turn on tv</h1>
+
+2020-03-02 19:40:57.508555:
+<h1>turn on tv</h1>
