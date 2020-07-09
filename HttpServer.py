@@ -1,7 +1,8 @@
 from flask import (Flask, request, make_response)
 from flask import request
 import broadlinkIRHandler as br
-import notification_light as flash
+import notification_light as nl
+import datetime
 import yeelight as yl
 from subprocess import call
 import json
@@ -87,9 +88,12 @@ def proccesRequest(req):
 @app.route('/LIGHT', methods=['GET', 'POST'])
 def light_handle():
     args_dict = request.args.to_dict()
+    if "broadlink" in args_dict:
+            nl.broadlink_switch(bulb, datetime.datetime.now().hour)
+            return '<h1>Done</h1>'
     if bulb:
         if "type" in args_dict:
-            type = flash.flash(bulb, args_dict["type"])
+            type = nl.flash(bulb, args_dict["type"])
             old_command_qeue.put('Flash type: {0}</h1>'.format(type))
             print('Flash type: {0}</h1>'.format(type))
             return '<h1>Flashing Light type: {0}</h1>'.format(type)
