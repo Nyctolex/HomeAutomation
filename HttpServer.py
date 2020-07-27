@@ -8,13 +8,8 @@ from subprocess import call
 import json
 
 from time import sleep
-bulb = None
-l = yl.discover_bulbs(timeout=5)
-if l:
-    print("found bulb")
-    bulb_data = l[0]
-    ip = bulb_data["ip"]
-    bulb = yl.Bulb(ip)
+BULB = None
+BULB = nl.find_bulb()
 
 tv = br.TV_handler("ir_tv", "ir")
 
@@ -62,6 +57,7 @@ def add_row(*args):
 command_qeue = Qeue_fifo()
 old_command_qeue = Qeue_fifo()
 app = Flask(__name__)
+BULB = nl.find_bulb()
 
 
 @app.route('/')
@@ -87,6 +83,11 @@ def proccesRequest(req):
 
 @app.route('/LIGHT', methods=['GET', 'POST'])
 def light_handle():
+    global BULB
+    bulb = BULB
+    if not bulb:
+        bulb = nl.find_bulb()
+        BULB = bulb
     args_dict = request.args.to_dict()
     if "broadlink" in args_dict:
             nl.broadlink_switch(bulb, datetime.datetime.now().hour)
@@ -107,7 +108,7 @@ def light_handle():
                 bulb.turn_off()
         elif "brightness" in args_dict:
             bulb.set_brightness(int(args_dict["brightness"]))
-    return '<h1>UNable to find bulb</h1>'
+    return '<h1>bulb is unavalibe rn</h1>'
 
 @app.route('/IR', methods=['GET', 'POST'])
 def add_commane():

@@ -7,8 +7,18 @@ if l:
     ip = bulb_data["ip"]
     bulb = yl.Bulb(ip)
 
+def find_bulb():
+    l = yl.discover_bulbs(timeout=5)
+    if l:
+        print("found bulb")
+        bulb_data = l[0]
+        ip = bulb_data["ip"]
+        bulb = yl.Bulb(ip)
+        return bulb
+    return None
+
 def toggle(bulb):
-    pass
+    bulb.toggle()
 
 def flash(bulb, type):
     if "notify" in type:
