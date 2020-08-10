@@ -129,7 +129,7 @@ def add_commane():
             old_command_qeue.put(command)
             return "<h1>" + str(command) + "</h1>"
         else:
-            return '<h1>NO commands</h1>'
+            return '<h1>No commands</h1>'
 
 @app.route('/GET')
 def get_qeue_file():
@@ -158,7 +158,7 @@ def clear_qeue():
 
 @app.route('/REBOOT')
 def reboot_pc():
-    call("reboot.bat")
+    call("reboot.sh")
     return '<h1>Shutting down server.</h1>'
 
 # @app.route('/EXIT')
@@ -169,9 +169,4 @@ def reboot_pc():
 
 
 if __name__ == "__main__":
-    # command_qeue.put("First POst")
-    # command_qeue.put("2 POst")
-    # command_qeue.put("3 POst")
-    # print("pls work")
-    # broadlinkIRHandler.check()
     app.run(host="0.0.0.0", port=80)
