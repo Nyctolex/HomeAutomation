@@ -50,7 +50,10 @@ class check_chromes(threading.Thread):
         names = []
         for d in lst:
             if type(d) is list:
-                names.append(d[0].device.friendly_name)
+                try:
+                    names.append(d[0].device.friendly_name)
+                except e:
+                    pass
         return names
 
     def run(self):
