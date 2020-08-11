@@ -64,22 +64,6 @@ BULB = nl.find_bulb()
 def home():
     return '<h1>hello!</h1>'
 
-@app.route('/webhook')
-def webhook():
-    req = request.get_json(silent=True, force=True)
-    res = proccesRequest(req)
-    res = json.dumps(res, indent=4)
-    r = make_response(res)
-    return r
-
-def proccesRequest(req):
-    speech = "Home and stuff"
-    return {"fulfilmentText": speech, }
-    # queryResponse = request["QueryResult"]
-    # print(queryResponse)
-    # text = query_response
-    # text = queryResponse.get('parameters', None)
-
 
 @app.route('/LIGHT', methods=['GET', 'POST'])
 def light_handle():
@@ -161,10 +145,16 @@ def reboot_pc():
     call("reboot.sh")
     return '<h1>Shutting down server.</h1>'
 
-# @app.route('/EXIT')
-# def reboot_pc():
-#     exit(0)
-#     return '<h1>exiting server.</h1>'
+# def shutdown_server():
+#     func = request.environ.get('werkzeug.server.shutdown')
+#     if func is None:
+#         raise RuntimeError('Not running with the Werkzeug Server')
+#     func()
+
+# @app.route('/shutdown', methods=['GET'])
+# def shutdown():
+#     shutdown_server()
+#     return 'Server shutting down...'
 
 
 

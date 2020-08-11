@@ -45,12 +45,19 @@ class check_chromes(threading.Thread):
         self.caste_name = cast_name
         self.timeout = 5
         self.off_counter = 0
+    
+    def chrome_names(self, lst):
+        names = []
+        for d in lst:
+            if type(d) is list:
+                names.append(d[0].device.friendly_name)
+        return names
 
     def run(self):
         self.off_counter = 0
         while not self.exit:
             chromecasts = pychromecast.get_chromecasts(timeout= self.timeout)
-            names = [cc.device.friendly_name for cc in chromecasts]
+            names = self.chrome_names(chromecasts)
             if self.caste_name in names:
                 self.parent.activate("set tv state to on", echo=False)
                 self.off_counter = 0
