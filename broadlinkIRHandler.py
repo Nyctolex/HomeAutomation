@@ -52,7 +52,7 @@ class check_chromes(threading.Thread):
             if type(d) is list:
                 try:
                     names.append(d[0].device.friendly_name)
-                except e:
+                except:
                     pass
         return names
 

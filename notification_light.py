@@ -34,12 +34,13 @@ def flash(bulb, type):
 def broadlink_switch(bulb, current_hour):
     if not (current_hour in range(7, 18)):
         return
-    for i in range(30):
-        l = yl.discover_bulbs(timeout=2)
-        if len(l) > 0: break
-    bulb_data = l[0]
-    ip = bulb_data["ip"]
-    bulb = yl.Bulb(ip)
+    if bulb == None:
+        for i in range(30):
+            l = yl.discover_bulbs(timeout=2)
+            if len(l) > 0: break
+        bulb_data = l[0]
+        ip = bulb_data["ip"]
+        bulb = yl.Bulb(ip)
     bulb.turn_off()
 
 def call_notify(bulb):
