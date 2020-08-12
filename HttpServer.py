@@ -74,8 +74,9 @@ def light_handle():
         BULB = bulb
     args_dict = request.args.to_dict()
     if "broadlink" in args_dict:
-            nl.broadlink_switch(bulb, datetime.datetime.now().hour)
-            return '<h1>Done</h1>'
+            output = nl.broadlink_switch(bulb)
+            old_command_qeue.put('Broadlink Notify, Output: {0}</h1>'.format(output))
+            return 'Broadlink Notify, Output: {0}</h1>'.format(output)
     if bulb:
         if "type" in args_dict:
             type = nl.flash(bulb, args_dict["type"])

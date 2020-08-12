@@ -1,5 +1,7 @@
 import yeelight as yl
 from time import sleep
+from sun_time import get_sun_times
+import datetime
 bulb = None
 l = yl.discover_bulbs(timeout=5)
 if l:
@@ -31,17 +33,26 @@ def flash(bulb, type):
         flash_do(bulb)
         return "default flash"
 
-def broadlink_switch(bulb, current_hour):
-    if not (current_hour in range(7, 18)):
-        return
-    if bulb == None:
-        for i in range(30):
-            l = yl.discover_bulbs(timeout=2)
-            if len(l) > 0: break
-        bulb_data = l[0]
-        ip = bulb_data["ip"]
-        bulb = yl.Bulb(ip)
-    bulb.turn_off()
+def broadlink_switch(bulb):
+    cur_time = datetime.datetime.now().hour + (datetime.datetime.now().minute/60)
+    srise, sset = get_sun_times()
+    if not (srise < cur_time < sset):
+        return False
+    try:
+        bulb.turn_off()
+    except:
+        if bulb == None:
+            for i in range(30):
+                l = yl.discover_bulbs(timeout=2)
+                if len(l) > 0: break
+            if len(l) == 0:
+                return False
+            bulb_data = l[0]
+            ip = bulb_data["ip"]
+            bulb = yl.Bulb(ip)
+            bulb.turn_off()
+            return True
+        return False
 
 def call_notify(bulb):
     flash_do(bulb, repeat=2, sleep_time=0.2)

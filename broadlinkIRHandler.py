@@ -91,7 +91,7 @@ class TV_handler():
             except EOFError:
                 self.state_dictionry = {}
         self.chrome_check = check_chromes(CHROMECAST_NAME, self)
-        self.chrome_check.start()
+        #self.chrome_check.start()
 
     def configure_power_packet(self):
         if self.auth:
